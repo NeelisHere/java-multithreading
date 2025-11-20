@@ -1,4 +1,4 @@
-package monitor_lock;
+package MonitorLock;
 
 public class SharedResource {
     public synchronized void task1() {

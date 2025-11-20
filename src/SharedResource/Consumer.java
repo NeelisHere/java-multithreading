@@ -1,4 +1,4 @@
-package producer_consumer_problem;
+package SharedResource;
 
 public class Consumer implements Runnable {
     private ResourceOne sharedResource;
