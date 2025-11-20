@@ -1,4 +1,4 @@
-package producer_consumer_problem;
+package SharedResource;
 
 public class ResourceOne {
     private int items = 0;
